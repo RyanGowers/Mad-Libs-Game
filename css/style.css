@@ -1,0 +1,20 @@
+#poem {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#poem2 {
+    margin-top: 140px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+html {
+    background-image: url("../img/secondImage.jpg");
+    background-position: center;
+    background-size: contain;
+}
+
+
